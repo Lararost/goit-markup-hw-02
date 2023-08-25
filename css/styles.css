@@ -4,7 +4,7 @@ body {
 .studio {
   color: #2e2f42;
 }
-.studio1 {
+.studioo {
   color: #f4f4fd;
 }
 title {
@@ -90,4 +90,19 @@ h3 {
   width: 264px;
   color: #f4f4fd;
   font-size: 16px;
+}
+
+.butonik {
+  background-color: #f4f4fd;
+  color: #4d5ae5;
+  text-align: center;
+  font-family: Roboto;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 24px; /* 150% */
+  letter-spacing: 0.64px;
+}
+.butonik:hover {
+  background-color: #404bbf;
 }
